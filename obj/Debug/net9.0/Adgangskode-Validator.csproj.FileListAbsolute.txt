@@ -1,0 +1,15 @@
+C:\Users\ah\Adgangskode-Validator\bin\Debug\net9.0\Adgangskode-Validator.exe
+C:\Users\ah\Adgangskode-Validator\bin\Debug\net9.0\Adgangskode-Validator.deps.json
+C:\Users\ah\Adgangskode-Validator\bin\Debug\net9.0\Adgangskode-Validator.runtimeconfig.json
+C:\Users\ah\Adgangskode-Validator\bin\Debug\net9.0\Adgangskode-Validator.dll
+C:\Users\ah\Adgangskode-Validator\bin\Debug\net9.0\Adgangskode-Validator.pdb
+C:\Users\ah\Adgangskode-Validator\obj\Debug\net9.0\Adgangskode-Validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ah\Adgangskode-Validator\obj\Debug\net9.0\Adgangskode-Validator.AssemblyInfoInputs.cache
+C:\Users\ah\Adgangskode-Validator\obj\Debug\net9.0\Adgangskode-Validator.AssemblyInfo.cs
+C:\Users\ah\Adgangskode-Validator\obj\Debug\net9.0\Adgangskode-Validator.csproj.CoreCompileInputs.cache
+C:\Users\ah\Adgangskode-Validator\obj\Debug\net9.0\Adgangskode-Validator.sourcelink.json
+C:\Users\ah\Adgangskode-Validator\obj\Debug\net9.0\Adgangskode-Validator.dll
+C:\Users\ah\Adgangskode-Validator\obj\Debug\net9.0\refint\Adgangskode-Validator.dll
+C:\Users\ah\Adgangskode-Validator\obj\Debug\net9.0\Adgangskode-Validator.pdb
+C:\Users\ah\Adgangskode-Validator\obj\Debug\net9.0\Adgangskode-Validator.genruntimeconfig.cache
+C:\Users\ah\Adgangskode-Validator\obj\Debug\net9.0\ref\Adgangskode-Validator.dll
