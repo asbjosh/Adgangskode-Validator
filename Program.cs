@@ -27,9 +27,9 @@ public class PasswordValidator
     {
         bool result = false;
         result = password.Length >= 8
-        && Regex.IsMatch(password, @"\d.*\d")
-        && Regex.IsMatch(password, @"[!@#$%&*].*[!@#$%&*]");
-        
+        && Regex.IsMatch(password, @"(?:.*\d){2,}")
+        && Regex.IsMatch(password, @"(?:.*[!@#$%&*]){2,}");
+
         return result;
     }
 }
