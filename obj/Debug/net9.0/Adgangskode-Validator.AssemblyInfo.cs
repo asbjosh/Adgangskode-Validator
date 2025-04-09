@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Adgangskode-Validator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f56a99ab5c81569ff4a2dd6cf99dc26f5b5f4034")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+306746b99226e22cda22a39e0f58e93c06db63a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Adgangskode-Validator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Adgangskode-Validator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
