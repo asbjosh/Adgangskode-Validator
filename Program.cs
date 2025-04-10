@@ -3,23 +3,28 @@ using System.Text.RegularExpressions;
 using System.Linq;
 
 string password;
-
-Console.Clear();
-
-Console.WriteLine("Adgangskoden skal mindst have 2 tal, et af de følgende special tegn ('!', '@', '#', '$', '%', '&', '*')");
-Console.WriteLine("Længden skal mindst være på 8 tegn");
-Console.Write("Indast dit nye kodeord: ");
-password = Console.ReadLine();
-
-
-if (PasswordValidator.ValidatePassword(password))
+bool isValid = true;
+do
 {
-    Console.WriteLine("Stærk");
-}
-else
-{
-    Console.WriteLine("Svag");
-}
+    Console.Clear();
+
+    Console.WriteLine("Adgangskoden skal mindst have 2 tal, et af de følgende special tegn ('!', '@', '#', '$', '%', '&', '*')");
+    Console.WriteLine("Længden skal mindst være på 8 tegn");
+    Console.Write("Indast dit nye kodeord: ");
+    password = Console.ReadLine();
+
+
+    if (PasswordValidator.ValidatePassword(password))
+    {
+        Console.WriteLine("Stærk");
+        isValid = false;
+    }
+    else
+    {
+        Console.WriteLine("Svag");
+    }
+} while (isValid);
+
 
 public class PasswordValidator
 {
